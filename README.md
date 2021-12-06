@@ -1,8 +1,12 @@
 HOLA! Antes que anda me gustaria pedir disculpas por la demora en la entrega,
 debo decir que me costo muchisimo construir esta REST API, y aunque no pude cumplir con todos los requisitos,
-logre la gran mayoria de ellos y me siento muy orgulloso se las cosas que fui aprendiendo en el camino! con muchas horas de sueño invertidas! lamentablemente me faltaba practica. 
-Me costo mucho lograr desarrollar la API y conectarla a la base de datos para lograr el manejo de los mismos, 
-pero utilizando MONGO DB ATLAS, pude lograrlo.
+logre la gran mayoria de ellos y me siento muy orgulloso se las cosas que fui aprendiendo en el camino! con muchas horas de sueño invertidas! lamentablemente me faltaba practica.
+
+La dificultad mas grande al desarrollar la API fue  conectarla a la base de datos para lograr el manejo de los mismos, 
+pero utilizando MONGO DB ATLAS, pude lograrlo. 
+
+Una vez lograda esa tarea, entre a la parte de FRONT-END que es donde mejor me manejo y pude avanzar mas.
+
 REST API desarrollada en NODE JS,
 Y el FRONT-END desarrollado en REACT-JS
 FRAMEWORK usado= express, 
