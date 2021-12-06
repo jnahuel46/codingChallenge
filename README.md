@@ -15,12 +15,17 @@ Basicamente cree una REST API en donde se pueden realizar todas las opreaciones 
 cumpliendo con la mayoria de los requisitos del Challenge.
 
 Los endpoints utilizados nos permiten realizar todas las operaciones CRUD, 
+
 CREATE: metodo post al presionar el boton send,
+
 READ: metodo get, al entrar o refrescar la api me trae todos lso elementos guardados,
+
 UPDATED: metodo put, cuando damos en el boton editar, se renderiza el form de acuerdo al id del 
 elemento seleccionado y podemos editar cada producto en particular,
+
 DELETED: metodo delete, al dar click en el icono de borrar, nos pregunta si estamos seguros de borrar y
 luego se realiza la accion,
+
 Lo que no pude lograr (por falta de tiempo) es lograr filtrar por id de cada producto, 
 lograr que se pueda ver en un modal mas informacion sobre el producto y la imagen, y lamentablemente ninguno de los extras.
 
